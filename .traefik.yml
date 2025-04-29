@@ -1,0 +1,9 @@
+displayName: Demo Plugin
+type: middleware
+iconPath: .assets/icon.png
+
+import: git.xeserv.us/xe/traefik-x-http-version
+
+summary: 'Add X-Http-Version header to requests'
+
+testData: {}
