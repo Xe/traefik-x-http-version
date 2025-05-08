@@ -1,9 +1,9 @@
-displayName: Demo Plugin
+displayName: X-Http-Version header
 type: middleware
 iconPath: .assets/icon.png
 
-import: git.xeserv.us/xe/traefik-x-http-version
+import: github.com/Xe/traefik-x-http-version
 
-summary: 'Add X-Http-Version header to requests'
+summary: 'Add X-Http-Version header to requests for Anubis'
 
 testData: {}
