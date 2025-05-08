@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	plugin "git.xeserv.us/xe/traefik-x-http-version"
+	plugin "github.com/Xe/traefik-x-http-version"
 )
 
 func TestDemo(t *testing.T) {
